@@ -1,4 +1,6 @@
 # 240103_DesignSampleFrame_ashion-master
+작성자 : 최예름
+<br>
 ashion-sample 부트스트랩 디자인을 일부 변경하여 프로젝트에 적합한지 테스트하는 코드입니다.   
 <br>
 <Controller 구성>   

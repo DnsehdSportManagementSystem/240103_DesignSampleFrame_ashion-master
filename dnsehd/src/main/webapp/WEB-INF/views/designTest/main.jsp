@@ -69,14 +69,14 @@
                 <div class="col-xl-6 col-lg-7">
                     <nav class="header__menu">
                         <ul>
-                            <li class="active"><a href="./index.html">Home</a></li>
+                            <li class="active"><a href="main">Home</a></li>
                             <li><a href="class">수업조회</a></li>
                             <li><a href="teacher">강사조회</a></li>
-                            <li><a href="#">일정관리</a></li>
-                            <li><a href="#">식단 관리</a></li>
-                            <li><a href="#">수업후기</a></li>
-                            <li><a href="#">공지사항</a></li>
-                            <li><a href="#">FAQ</a></li>
+                            <li><a href="calendar">일정관리</a></li>
+                            <li><a href="diet">식단 관리</a></li>
+                            <li><a href="review">수업후기</a></li>
+                            <li><a href="notice">공지사항</a></li>
+                            <li><a href="faq">FAQ</a></li>
                             <li><a href="#">일단 남겨둠</a>
                                 <ul class="dropdown">
                                     <li><a href="#">Shop Cart</a></li>
@@ -98,7 +98,7 @@
                             <li><a href="#"><span class="icon_heart_alt"></span>
                                 <div class="tip">2</div>
                             </a></li>
-                            <li><a href="#"><span class="icon_bag_alt"></span>
+                            <li><a href="mypage"><span class="icon_bag_alt"></span>
                                 <div class="tip">2</div>
                             </a></li>
                         </ul>
@@ -296,7 +296,7 @@
             </div>
             <div class="col-lg-3 col-md-4 col-sm-6 mix kid">
                 <div class="product__item">
-                    <div class="product__item__pic set-bg" data-setbg="img/product/product-5.jpg">
+                    <div class="product__item__pic set-bg" data-setbg="addedImg/pilates_1.jpg">
                         <ul class="product__hover">
                             <li><a href="img/product/product-5.jpg" class="image-popup"><span class="arrow_expand"></span></a></li>
                             <li><a href="#"><span class="icon_heart_alt"></span></a></li>
@@ -304,7 +304,7 @@
                         </ul>
                     </div>
                     <div class="product__item__text">
-                        <h6><a href="#">Fit micro corduroy shirt</a></h6>
+                        <h6><a href="#">단체 필라테스 레슨</a></h6>
                         <div class="rating">
                             <i class="fa fa-star"></i>
                             <i class="fa fa-star"></i>
@@ -312,13 +312,13 @@
                             <i class="fa fa-star"></i>
                             <i class="fa fa-star"></i>
                         </div>
-                        <div class="product__price">$ 59.0</div>
+                        <div class="product__price">40만원/월</div>
                     </div>
                 </div>
             </div>
             <div class="col-lg-3 col-md-4 col-sm-6 mix women men kid accessories cosmetic">
                 <div class="product__item sale">
-                    <div class="product__item__pic set-bg" data-setbg="img/product/product-6.jpg">
+                    <div class="product__item__pic set-bg" data-setbg="addedImg/pilates_2.jpg">
                         <div class="label sale">Sale</div>
                         <ul class="product__hover">
                             <li><a href="img/product/product-6.jpg" class="image-popup"><span class="arrow_expand"></span></a></li>
@@ -327,7 +327,7 @@
                         </ul>
                     </div>
                     <div class="product__item__text">
-                        <h6><a href="#">Tropical Kimono</a></h6>
+                        <h6><a href="#">재활 필라테스</a></h6>
                         <div class="rating">
                             <i class="fa fa-star"></i>
                             <i class="fa fa-star"></i>
@@ -335,13 +335,13 @@
                             <i class="fa fa-star"></i>
                             <i class="fa fa-star"></i>
                         </div>
-                        <div class="product__price">$ 49.0 <span>$ 59.0</span></div>
+                        <div class="product__price">40만원/월 <span>45만원/월</span></div>
                     </div>
                 </div>
             </div>
             <div class="col-lg-3 col-md-4 col-sm-6 mix women men kid accessories cosmetic">
                 <div class="product__item">
-                    <div class="product__item__pic set-bg" data-setbg="img/product/product-7.jpg">
+                    <div class="product__item__pic set-bg" data-setbg="addedImg/yoga_1.jpg">
                         <ul class="product__hover">
                             <li><a href="img/product/product-7.jpg" class="image-popup"><span class="arrow_expand"></span></a></li>
                             <li><a href="#"><span class="icon_heart_alt"></span></a></li>
@@ -349,7 +349,7 @@
                         </ul>
                     </div>
                     <div class="product__item__text">
-                        <h6><a href="#">Contrasting sunglasses</a></h6>
+                        <h6><a href="#">자연 힐링 요가</a></h6>
                         <div class="rating">
                             <i class="fa fa-star"></i>
                             <i class="fa fa-star"></i>
@@ -357,13 +357,13 @@
                             <i class="fa fa-star"></i>
                             <i class="fa fa-star"></i>
                         </div>
-                        <div class="product__price">$ 59.0</div>
+                        <div class="product__price">15만원/월</div>
                     </div>
                 </div>
             </div>
             <div class="col-lg-3 col-md-4 col-sm-6 mix women men kid accessories cosmetic">
                 <div class="product__item sale">
-                    <div class="product__item__pic set-bg" data-setbg="img/product/product-8.jpg">
+                    <div class="product__item__pic set-bg" data-setbg="addedImg/yoga_2.jpg">
                         <div class="label">Sale</div>
                         <ul class="product__hover">
                             <li><a href="img/product/product-8.jpg" class="image-popup"><span class="arrow_expand"></span></a></li>
@@ -372,7 +372,7 @@
                         </ul>
                     </div>
                     <div class="product__item__text">
-                        <h6><a href="#">Water resistant backpack</a></h6>
+                        <h6><a href="#">단체 뮤직 요가</a></h6>
                         <div class="rating">
                             <i class="fa fa-star"></i>
                             <i class="fa fa-star"></i>
@@ -380,7 +380,7 @@
                             <i class="fa fa-star"></i>
                             <i class="fa fa-star"></i>
                         </div>
-                        <div class="product__price">$ 49.0 <span>$ 59.0</span></div>
+                        <div class="product__price">22만원/월 <span>25만원/월</span></div>
                     </div>
                 </div>
             </div>
@@ -740,7 +740,7 @@
             <div class="col-lg-4 col-md-6 col-sm-7">
                 <div class="footer__about">
                     <div class="footer__logo">
-                        <a href="./index.html"><img src="img/logo.png" alt=""></a>
+                        <a href="./index.html"><img src="addedImg/dnsehd_small_logo.png" alt=""></a>
                     </div>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
                     cilisis.</p>

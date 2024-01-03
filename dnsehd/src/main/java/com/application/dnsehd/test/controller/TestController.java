@@ -55,6 +55,7 @@ public class TestController {
 	
 	
 	// 3. 디자인 테스트용으로 수정한 view와 맵핑
+// (복붙해서 사용)
 //	@GetMapping("/")
 //	public String () {
 //		return "designTest/";
@@ -85,7 +86,35 @@ public class TestController {
 		return "designTest/teacherDetail";
 	}	
 
+	@GetMapping("/calendar")
+	public String calendar() {
+		return "designTest/calendar";
+	}	
 
+	@GetMapping("/diet")
+	public String diet() {
+		return "designTest/diet";
+	}	
+	
+	@GetMapping("/review")
+	public String review() {
+		return "designTest/review";
+	}	
+	
+	@GetMapping("/notice")
+	public String notice() {
+		return "designTest/notice";
+	}	
+	
+	@GetMapping("/faq")
+	public String faq() {
+		return "designTest/faq";
+	}	
+	
+	@GetMapping("/mypage")
+	public String mypage() {
+		return "designTest/mypage";
+	}	
 	
 	
 }

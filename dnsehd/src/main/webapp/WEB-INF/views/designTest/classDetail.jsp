@@ -118,8 +118,8 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="breadcrumb__links">
-                        <a href="./index.html"><i class="fa fa-home"></i> Home</a>
-                        <a href="#">Class </a>
+                        <a href="main"><i class="fa fa-home"></i> Home</a>
+                        <a href="class">Class </a>
                         <span>근력 향상 1:1 PT</span>
                     </div>
                 </div>

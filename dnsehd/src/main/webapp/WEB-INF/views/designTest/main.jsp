@@ -189,24 +189,24 @@
         <div class="row">
             <div class="col-lg-4 col-md-4">
                 <div class="section-title">
-                    <h4>New product</h4>
+                    <h4>New classes</h4>
                 </div>
             </div>
             <div class="col-lg-8 col-md-8">
                 <ul class="filter__controls">
-                    <li class="active" data-filter="*">All</li>
-                    <li data-filter=".women">Women’s</li>
-                    <li data-filter=".men">Men’s</li>
-                    <li data-filter=".kid">Kid’s</li>
-                    <li data-filter=".accessories">Accessories</li>
-                    <li data-filter=".cosmetic">Cosmetics</li>
+                    <li class="active" data-filter="*">전체 수업</li>
+                    <li data-filter=".women">PT</li>
+                    <li data-filter=".men">스쿼시</li>
+                    <li data-filter=".kid">필라테스</li>
+                    <li data-filter=".accessories">요가</li>
+                    <li data-filter=".cosmetic">헬스</li>
                 </ul>
             </div>
         </div>
         <div class="row property__gallery">
             <div class="col-lg-3 col-md-4 col-sm-6 mix women">
                 <div class="product__item">
-                    <div class="product__item__pic set-bg" data-setbg="img/product/product-1.jpg">
+                    <div class="product__item__pic set-bg" data-setbg="addedImg/pt_1.jpg">
                         <div class="label new">New</div>
                         <ul class="product__hover">
                             <li><a href="img/product/product-1.jpg" class="image-popup"><span class="arrow_expand"></span></a></li>
@@ -215,7 +215,7 @@
                         </ul>
                     </div>
                     <div class="product__item__text">
-                        <h6><a href="#">Buttons tweed blazer</a></h6>
+                        <h6><a href="#">근력 향상 1:1 PT</a></h6>
                         <div class="rating">
                             <i class="fa fa-star"></i>
                             <i class="fa fa-star"></i>
@@ -223,13 +223,13 @@
                             <i class="fa fa-star"></i>
                             <i class="fa fa-star"></i>
                         </div>
-                        <div class="product__price">$ 59.0</div>
+                        <div class="product__price">40만원/월</div>
                     </div>
                 </div>
             </div>
             <div class="col-lg-3 col-md-4 col-sm-6 mix men">
                 <div class="product__item">
-                    <div class="product__item__pic set-bg" data-setbg="img/product/product-2.jpg">
+                    <div class="product__item__pic set-bg" data-setbg="addedImg/pt_2.jpg">
                         <ul class="product__hover">
                             <li><a href="img/product/product-2.jpg" class="image-popup"><span class="arrow_expand"></span></a></li>
                             <li><a href="#"><span class="icon_heart_alt"></span></a></li>
@@ -237,7 +237,7 @@
                         </ul>
                     </div>
                     <div class="product__item__text">
-                        <h6><a href="#">Flowy striped skirt</a></h6>
+                        <h6><a href="#">신나는 단체 PT</a></h6>
                         <div class="rating">
                             <i class="fa fa-star"></i>
                             <i class="fa fa-star"></i>
@@ -245,13 +245,13 @@
                             <i class="fa fa-star"></i>
                             <i class="fa fa-star"></i>
                         </div>
-                        <div class="product__price">$ 49.0</div>
+                        <div class="product__price">30만원/월</div>
                     </div>
                 </div>
             </div>
             <div class="col-lg-3 col-md-4 col-sm-6 mix accessories">
                 <div class="product__item">
-                    <div class="product__item__pic set-bg" data-setbg="img/product/product-3.jpg">
+                    <div class="product__item__pic set-bg" data-setbg="addedImg/squash_1.jpg">
                         <div class="label stockout">out of stock</div>
                         <ul class="product__hover">
                             <li><a href="img/product/product-3.jpg" class="image-popup"><span class="arrow_expand"></span></a></li>
@@ -260,7 +260,7 @@
                         </ul>
                     </div>
                     <div class="product__item__text">
-                        <h6><a href="#">Cotton T-Shirt</a></h6>
+                        <h6><a href="#">주3회 스쿼시 자유이용</a></h6>
                         <div class="rating">
                             <i class="fa fa-star"></i>
                             <i class="fa fa-star"></i>
@@ -268,13 +268,13 @@
                             <i class="fa fa-star"></i>
                             <i class="fa fa-star"></i>
                         </div>
-                        <div class="product__price">$ 59.0</div>
+                        <div class="product__price">20만원/월</div>
                     </div>
                 </div>
             </div>
             <div class="col-lg-3 col-md-4 col-sm-6 mix cosmetic">
                 <div class="product__item">
-                    <div class="product__item__pic set-bg" data-setbg="img/product/product-4.jpg">
+                    <div class="product__item__pic set-bg" data-setbg="addedImg/squash_2.jpg">
                         <ul class="product__hover">
                             <li><a href="img/product/product-4.jpg" class="image-popup"><span class="arrow_expand"></span></a></li>
                             <li><a href="#"><span class="icon_heart_alt"></span></a></li>
@@ -282,7 +282,7 @@
                         </ul>
                     </div>
                     <div class="product__item__text">
-                        <h6><a href="#">Slim striped pocket shirt</a></h6>
+                        <h6><a href="#">커플 스쿼시 레슨</a></h6>
                         <div class="rating">
                             <i class="fa fa-star"></i>
                             <i class="fa fa-star"></i>
@@ -290,7 +290,7 @@
                             <i class="fa fa-star"></i>
                             <i class="fa fa-star"></i>
                         </div>
-                        <div class="product__price">$ 59.0</div>
+                        <div class="product__price">30만원/월</div>
                     </div>
                 </div>
             </div>
@@ -390,29 +390,29 @@
 <!-- Product Section End -->
 
 <!-- Banner Section Begin -->
-<section class="banner set-bg" data-setbg="img/banner/banner-1.jpg">
+<section class="banner set-bg" data-setbg="addedImg/ad_background2.jpg">
     <div class="container">
         <div class="row">
             <div class="col-xl-7 col-lg-8 m-auto">
                 <div class="banner__slider owl-carousel">
                     <div class="banner__item">
                         <div class="banner__text">
-                            <span>The Chloe Collection</span>
-                            <h1>The Project Jacket</h1>
+                            <span>강남역 다이어트 캠프</span>
+                            <h1>2월 신규 개강</h1>
                             <a href="#">Shop now</a>
                         </div>
                     </div>
                     <div class="banner__item">
                         <div class="banner__text">
-                            <span>The Chloe Collection</span>
-                            <h1>The Project Jacket</h1>
+                            <span>코어근육 단련 1:1 PT</span>
+                            <h1>20% OFF</h1>
                             <a href="#">Shop now</a>
                         </div>
                     </div>
                     <div class="banner__item">
                         <div class="banner__text">
-                            <span>The Chloe Collection</span>
-                            <h1>The Project Jacket</h1>
+                            <span>전직 국가대표 강사</span>
+                            <h1>6개월반 모집</h1>
                             <a href="#">Shop now</a>
                         </div>
                     </div>

@@ -101,6 +101,11 @@ public class TestController {
 		return "designTest/review";
 	}	
 	
+	@GetMapping("/reviewDetail")
+	public String reviewDetail() {
+		return "designTest/reviewDetail";
+	}	
+	
 	@GetMapping("/notice")
 	public String notice() {
 		return "designTest/notice";
